@@ -81,7 +81,7 @@
 
 
 <details class="wp-block-details"><summary>出力結果</summary>
-<pre class="wp-block-code has-background" style="background-color:#ffeeee"><code>date: /bin/date /usr/share/man/man1/date.1</code></pre>
+<pre class="wp-block-code has-background" style="background-color:#ffeeee"><code>date: /usr/bin/date /usr/share/man/man1/date.1.gz</code></pre>
 </details>
 </div>
 
@@ -97,7 +97,7 @@
 
 
 <details class="wp-block-details"><summary>出力結果</summary>
-<pre class="wp-block-code has-background" style="background-color:#ffeeee"><code>date: /bin/date /usr/share/man/man1/date.1</code></pre>
+<pre class="wp-block-code has-background" style="background-color:#ffeeee"><code>date: /usr/share/man/man1/date.1.gz</code></pre>
 </details>
 </div>
 </div>
@@ -318,7 +318,7 @@
 
 
 <details class="wp-block-details"><summary>詳細</summary>
-<pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>date: /bin/date /usr/share/man/man1/date.1</code></pre>
+<pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>date: /usr/bin/date /usr/share/man/man1/date.1.gz</code></pre>
 </details>
 </div>
 
@@ -334,7 +334,7 @@
 
 
 <details class="wp-block-details"><summary>詳細</summary>
-<pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>date: /bin/date /usr/share/man/man1/date.1</code></pre>
+<pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>date: /usr/share/man/man1/date.1.gz</code></pre>
 </details>
 </div>
 </div>
@@ -348,7 +348,7 @@
 
 
 <div class="wp-block-group">
-<p>user.cs_path、/usr/libexec、$PATHの順に検索されるそうですが、user.cs_pathのパスと/usr/libexecに新規ファイルを作成できないので検証できないです<br>user.cs_pathや/usr/libexecに存在しなくて$PATHに存在するコマンドであれば$PATHがwhereisコマンドの検索対象になっていることを確認できます<br>user.cs_pathに含まれるパスは以下のコマンドで確認できます</p>
+<p>user.cs_path、/usr/libexec、$PATHの順に検索されるそうですが、user.cs_pathのパスと/usr/libexecに新規ファイルを作成できないので検証できないです<br>user.cs_pathや/usr/libexecに存在しなくて$PATHに存在するコマンドであれば$PATHがwhereisコマンドの検索対象になっていることを確認できます<br>macの場合、user.cs_pathに含まれるパスは以下のコマンドで確認できます</p>
 
 
 
